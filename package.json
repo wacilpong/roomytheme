@@ -1,0 +1,21 @@
+{
+  "name": "roomytheme",
+  "displayName": "roomytheme",
+  "description": "roomy's color pick",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "roomytheme",
+        "uiTheme": "hc-black",
+        "path": "./themes/roomytheme-color-theme.json"
+      }
+    ]
+  }
+}
