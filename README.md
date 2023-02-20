@@ -1,16 +1,10 @@
-# roomytheme README
+# 루미테마란? what is this shit?
 
-## Working with Markdown
+루미테마는 루미가 좋아하는 색을 입힌 에디터 테마입니다.
+This theme is the trash with roomy's favorite color.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+취향 버저닝에 따라 색상 팔레트가 변할 수 있어요.
+The color palette can be changed according to my thing.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+모두들 즐겨보세요.
+Enjoy.

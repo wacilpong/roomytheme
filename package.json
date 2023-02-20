@@ -1,7 +1,9 @@
 {
+  "publisher": "roomy",
   "name": "roomytheme",
   "displayName": "roomytheme",
   "description": "roomy's color pick",
+  "repository": "https://github.com/wacilpong/roomytheme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
@@ -17,5 +19,6 @@
         "path": "./themes/roomytheme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
